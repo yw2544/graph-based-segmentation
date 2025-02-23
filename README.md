@@ -16,7 +16,7 @@ This project implements an intelligent image segmentation algorithm using **Dijk
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/graph-based-segmentation.git
+   git clone https://github.com/yw2544/graph-based-segmentation.git
    ```
 2. Open in IntelliJ IDEA or another Java IDE.
 3. Build and run the project.
